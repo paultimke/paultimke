@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @paultimke and I'm an engineering student in the field of Mechatronics.
-- 👀 I’m interested in embedded systems and C programming
+- 👋 Hi, I’m @paultimke 
+- 👀 I’m interested
 - 🌱 I’m currently learning
 - 📫 You can reach me at ptimkec@live.com
 

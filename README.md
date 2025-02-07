@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paultimke. Just graduated college.
-- 👀 I’m interested in anything embedded related or things about computer vision.
+- 👀 I’m interested in anything embedded related.
 - 📫 You can reach me at ptimkec@live.com
 
 <!---

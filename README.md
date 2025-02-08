@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paultimke. Just graduated college.
+- 👋 Hi, I’m @paultimke.
 - 👀 I’m interested in anything embedded related.
 - 📫 You can reach me at ptimkec@live.com
 
